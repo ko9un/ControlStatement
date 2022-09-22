@@ -1,4 +1,4 @@
-package se01_selelctcontrolstatement.EX01_IfControlStatement;
+package sec01_selelctcontrolstatement.EX01_IfControlStatement;
 
 // 116p 3가지 유형의 if 문 
 

@@ -1,4 +1,4 @@
-package se01_selelctcontrolstatement.EX02_SwitchControlStatement;
+package sec01_selelctcontrolstatement.EX02_SwitchControlStatement;
 //p.123 switch문 (break 미포함 , break 포함 , if문 변환)
 
 public class SwitchControlStatement {
